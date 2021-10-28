@@ -44,13 +44,13 @@ video {
 	z-index: 0;
 	content: '';
 	display: block;
-	-webkit-transform: skewX(-25deg);
-	transform: skewX(-25deg);
+	-webkit-transform: skewX(-23deg);
+	transform: skewX(-23deg);
 }
 
 .card::before {
-	-webkit-animation: shine 2s infinite;
-	animation: shine 2s infinite;
+	-webkit-animation: shine 2.5s infinite;
+	animation: shine 2.5s infinite;
 }
 @-webkit-keyframes shine {
 	100% {
