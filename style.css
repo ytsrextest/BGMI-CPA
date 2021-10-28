@@ -79,9 +79,15 @@ video {
 
 
 .modal-dialog {
-    position: relative;
+/*     position: relative;
     width: auto;
     margin: 0.5rem;
     pointer-events: none;
-    padding-top: 140px;
+    padding-top: 140px; */
+	
+ position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
