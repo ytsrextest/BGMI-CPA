@@ -76,3 +76,12 @@ video {
     top: 50vh !important;
     
 }
+
+
+.modal-dialog {
+    position: relative;
+    width: auto;
+    margin: 0.5 rem;
+    pointer-events: none;
+    padding-top: 140 px;
+}
