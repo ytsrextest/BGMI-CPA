@@ -81,7 +81,7 @@ video {
 .modal-dialog {
     position: relative;
     width: auto;
-    margin: 0.5 rem;
+    margin: 0.5rem;
     pointer-events: none;
-    padding-top: 140 px;
+    padding-top: 140px;
 }
