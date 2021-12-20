@@ -1,9 +1,8 @@
 
+
 $(document).ready(function () {
-  // alert('hiiiii');
-  $(&quot;#submit&quot;).click(function () {
-    $(&quot;.alert-success&quot;).slideToggle(&quot;slow&quot;).delay(2000).slideToggle(&quot;slow&quot;);
-  });
+ // alert('hiiiii');
+    $("#submit").click(function () {
+        $(".alert-success").slideToggle("slow").delay(2000).slideToggle("slow");
+    });
 });
-
-
