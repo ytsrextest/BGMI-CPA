@@ -13,3 +13,26 @@ body {
 table {
   max-width: 1140px;
 }
+
+
+
+
+button, .a_Button {
+    display: inline-block;
+    padding: 0 16px;
+    margin-bottom: 24px;
+    font-family: 'Titillium Web','Open Sans',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: ;
+    line-height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    min-width: 72px;
+    border: 2px solid #eb974e;
+    border-radius: 5px;
+    cursor: pointer;
+    white-space: nowrap;
+    background-color: #eb974e;
+    color: #fff;
+    outline: none;
+}
