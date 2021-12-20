@@ -36,3 +36,19 @@ button, .a_Button {
     color: #fff;
     outline: none;
 }
+
+
+input[type=text], input[type=password], input[type=url], input[type=tel], input[type=number], input[type=color], input[type=email] {
+    height: 2.125rem;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    padding: 0 1rem;
+    font-size: 1rem;
+    line-height: 30px;
+    font-weight: 400;
+    color: #212121;
+    background-color: #fff;
+    border: solid 2px #cbcbcb;
+    border-radius: 5px;
+    outline: none;
+}
