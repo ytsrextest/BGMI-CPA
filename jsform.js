@@ -1,4 +1,4 @@
-<script id=&quot;rendered-js&quot; >
+
 $(document).ready(function () {
   // alert('hiiiii');
   $(&quot;#submit&quot;).click(function () {
@@ -6,4 +6,4 @@ $(document).ready(function () {
   });
 });
 
-    </script>
+
