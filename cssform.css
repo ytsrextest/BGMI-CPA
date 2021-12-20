@@ -1,0 +1,15 @@
+.hide{display:none}
+body {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.alert-success{
+      background: #f4f4f4;
+    color: #269612;
+    border-radius: 4px;
+    padding: 10px;
+}
+table {
+  max-width: 1140px;
+}
